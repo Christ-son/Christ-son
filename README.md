@@ -121,9 +121,7 @@ Academic strengths include Artificial Intelligence, Neural Networks, Cloud Setup
 
 ## Contact
 
-Open to **Junior / Graduate Software, AI Application, AI/ML, and related technology opportunities**.
-
-LinkedIn: *Add LinkedIn profile URL here*
+Open to Junior / Graduate opportunities in Software Engineering, AI Applications, AI/ML, and Backend Development.
 
 
 <!--
